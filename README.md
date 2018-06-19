@@ -21,6 +21,8 @@ let's experiment with some ReactJs
     - `npm install --save bootstrap`
     - open index JS
     - import bootstrap
+    - Props ( https://www.youtube.com/watch?v=MH7AAJKHoLU )
+    - stack overflow questions ( https://stackoverflow.com/questions/tagged/react-bootstrap )
  
 ## Developer Tools
 
