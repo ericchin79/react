@@ -1,4 +1,5 @@
 # react
+---
 let's experiment with some ReactJs
 
 * GitHub is the code repository the code will be stored in
@@ -25,6 +26,7 @@ let's experiment with some ReactJs
     - stack overflow questions ( https://stackoverflow.com/questions/tagged/react-bootstrap )
  
 ## Developer Tools
+---
 
 * Due to an Mcafee exemption, using your admin rights, ensure to install everything inside C:\devl
 
