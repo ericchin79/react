@@ -129,3 +129,10 @@ Deploying to Sharepoint (  )
 4. `npm run eject`
 5. `npm start`
 6. `npm run build` - to create a prod build 
+
+***
+
+An [example][id]. Then, anywhere
+else in the doc, define the link:
+
+  [id]: http://example.com/  "Title"
