@@ -37,7 +37,7 @@ let's experiment with some ReactJs
 * Github Desktop is a tool to assist you checkout branches with pull requests, view CI statuses, and co-author commits without touching the command line. ( https://desktop.github.com/ )
 
 ### Setup -- Follow these steps in order, and you will be all set
-
+---
 Install Node
 
 1. Ask a developer which version of Node we use ( current: Latest Version )
@@ -100,6 +100,7 @@ CONGRATS! Your workspace setup is compelte!
 - otherwise, you are now ready to check out the ADW code
 
 ### Adding a second webpart
+---
 - the following steps show you how to manually do this task
 
 Adding a second web part ( as many as you need )
@@ -121,6 +122,7 @@ Deploying to Sharepoint (  )
 3. Running the code locally, you run this command `gulp serve`  or you can try `gulp serve --nobrowser`
 
 ### Node commands 
+---
 1. `npm start`
 2. `npm run build`
 3. `npm test`
