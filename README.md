@@ -135,4 +135,8 @@ Deploying to Sharepoint (  )
 An [example][id]. Then, anywhere
 else in the doc, define the link:
 
+An another [Markdown example][Markdown] loks like this
+
   [id]: http://example.com/  "Title"
+
+  [Markdown]: https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md "Markdown"
